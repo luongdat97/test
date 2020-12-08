@@ -1,0 +1,26 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "this descripiton hahaha",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luongdat97/test.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "luongdat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luongdat97/test/issues"
+  },
+  "homepage": "https://github.com/luongdat97/test#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
